@@ -13,4 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--># Hello 👋, I'm KSHITIZ 🙏
+
+I'm a full stack developer from Nepal currently living at Finland. I'm passionate about Web Development, and I enjoy working on group and team work.
+
+### 🌱 What I'm currently learning:
+
+JavaScript
+react.js
+node.js
+SQL
+MONGODB
+
+### 📫 How to reach me:
+
+- [LinkedIn]https://www.linkedin.com/in/kshitiz-khanal-312932110/
+
+### ⚡ Fun fact:
+
+3C = coffee code community
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.Kshitiz2020)
+
+<H1>
