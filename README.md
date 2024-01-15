@@ -22,6 +22,7 @@ MongoDB
   
 <span>⚡ Fun fact:</span>
 3C = coffee code community ☕👨‍💻🌐
-<p>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.Kshitiz2020)</p>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.Kshitiz2020&style=for-the-badge)](https://github.com/your-username/Kshitiz2020)
+
 
 Feel free to explore my repositories and connect with me on LinkedIn! 🚀
