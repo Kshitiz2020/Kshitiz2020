@@ -17,7 +17,8 @@ MongoDB
 </div>
 
 📫 How to reach me:
-- [LinkedIn]https://www.linkedin.com/in/kshitiz-khanal-312932110/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kshitiz-khanal-312932110/)
+
   
 <span>⚡ Fun fact:</span>
 3C = coffee code community ☕👨‍💻🌐
