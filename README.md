@@ -17,9 +17,10 @@ MongoDB
 </div>
 
 📫 How to reach me:
-LinkedIn
-⚡ Fun fact:
+- [LinkedIn]https://www.linkedin.com/in/kshitiz-khanal-312932110/
+  
+<span>⚡ Fun fact:</span>
 3C = coffee code community ☕👨‍💻🌐
-Visitor Badge
+<p>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.Kshitiz2020)</p>
 
 Feel free to explore my repositories and connect with me on LinkedIn! 🚀
