@@ -15,7 +15,7 @@ I am currently student of  Vocational Qualification in Information and Communica
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz2020&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kshitiz2020&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kshitiz2020&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=Kshitiz2020&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
